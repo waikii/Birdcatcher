@@ -7,7 +7,7 @@ configobj==4.7.2
 decorator==3.4.0
 dj-static==0.0.6
 gunicorn==19.6.0
-html5lib==0.999
+html5lib==0.999999999
 httplib2==0.8
 ipython==1.2.1
 keyring==3.5
